@@ -54,12 +54,10 @@ This project uses a complete machine learning pipeline including model compariso
 To deploy the application locally and make it accessible on the web:
 
 1. Launch the Streamlit app:
-```bash
 streamlit run app.py
 
 2.Open a Public Tunnel Using Ngrok
 To make your Streamlit app accessible on the internet, use Ngrok:
-```bash
 ngrok config add-authtoken <your_auth_token>
 ngrok http 8501
 
