@@ -1,0 +1,19 @@
+Hardware Requirements:
+
+Processor: Intel Core i5 or higher (or equivalent AMD processor)
+RAM: Minimum 8 GB
+Storage: At least 500 MB of free disk space
+Display: Standard HD display (for running Streamlit web app)
+Internet: Required for installing libraries and running Ngrok
+
+
+Software Requirements:
+
+Operating System: Windows 10 / Linux / macOS
+Python: Version 3.8 or higher
+Code Editor: VS Code / Jupyter Notebook / PyCharm (any IDE or text editor)
+Libraries:
+pandas, numpy, matplotlib, seaborn
+scikit-learn, xgboost, lightgbm, catboost
+joblib, streamlit, pyngrok
+Web Browser: Chrome, Firefox, or any modern browser (to run the app)
