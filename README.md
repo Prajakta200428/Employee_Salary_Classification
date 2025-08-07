@@ -10,7 +10,7 @@ The aim of this project is to build a machine learning model that can classify i
 
 This project uses a complete machine learning pipeline including model comparison and deployment. The steps and models used are as follows:
 
-**Machine Learning Models Used**
+**Machine Learning Models**
 - Logistic Regression
 - Random Forest
 - Gradient Boosting Classifier
