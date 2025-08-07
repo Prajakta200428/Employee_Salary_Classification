@@ -6,7 +6,7 @@ This project predicts whether a person earns more than 50,000 per year based on 
 
 The aim of this project is to build a machine learning model that can classify individuals into two income groups: `<=50K` and `>50K`. The model uses features like age, education, occupation, and work hours. The final solution includes a user-friendly web app that allows users to input details and get instant salary group predictions.
 
-## 🧠 Machine Learning Models Used, 🔄 Workflow, and 📊 Features (All-in-One Section)
+## 🧠 Machine Learning Models, 🔄 Workflow, and 📊 Features (All-in-One Section)
 
 This project uses a complete machine learning pipeline including model comparison and deployment. The steps and models used are as follows:
 
